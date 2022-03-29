@@ -377,12 +377,10 @@ body {
 
 .navbar-right a:hover {
   color: var(--black);
-  border-bottom: 2px solid var(--black);
 }
 
 .navbar-right a.active {
   color: var(--black);
-  border-bottom: 2px solid var(--black);
 }
 
 .navbar-right a {
